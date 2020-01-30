@@ -1,0 +1,64 @@
+#content{
+    width: auto;
+    background-color: #46b3e6;
+}
+
+.navbar{
+    background-color: #2e279d;
+}
+
+#NBTitle{ 
+    font-family: 'Caveat', cursive;
+}
+
+header{
+    margin-top: 75px;
+}
+
+#header h1{
+    font-family: 'Fugaz One', cursive;
+}
+
+h2{
+    font-family: 'Fugaz One', cursive;
+}
+
+p{   
+    font-family: 'Comfortaa', cursive;
+}
+
+#NBItems{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#testimonial{
+    background: #4d80e4;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#info-two{
+    background-color: #4d80e4;
+    padding: 20px 0 20px 0;
+    margin-top: 25px;
+}
+
+#tname{ 
+    font-family: 'Sofia', cursive;
+}
+
+#pie{
+    background-color: #4d80e4;
+}
+.btn{
+    background-color: #297ca0;
+}
+@media screen and (max-width: 600px){
+    #content{
+        width: auto;
+    }
+    #gmaps{
+        width: auto;
+    }
+}
