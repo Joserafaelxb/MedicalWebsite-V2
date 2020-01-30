@@ -1,4 +1,4 @@
-#content{
+body{
     width: auto;
     background-color: #46b3e6;
 }
@@ -9,6 +9,7 @@
 
 #NBTitle{ 
     font-family: 'Caveat', cursive;
+    color: aliceblue;
 }
 
 header{
@@ -27,8 +28,10 @@ p{
     font-family: 'Comfortaa', cursive;
 }
 
-#NBItems{
+.nav-item{
     font-family: 'Josefin Sans', sans-serif;
+    color: aliceblue;
+    
 }
 
 #testimonial{
@@ -53,12 +56,4 @@ p{
 }
 .btn{
     background-color: #297ca0;
-}
-@media screen and (max-width: 800px){
-    #content{
-        width: auto;
-    }
-    #gmaps{
-        width: auto;
-    }
 }
